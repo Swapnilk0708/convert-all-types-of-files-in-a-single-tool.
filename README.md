@@ -37,7 +37,7 @@ This project is a Python-powered universal file converter that allows users to c
 
 # 2) Processing Based on File Type
 
-   1) Document Conversion
+1) Document Conversion
     
    . Supported formats: TXT, DOCX, PDF, RTF, etc.
     
@@ -51,7 +51,7 @@ This project is a Python-powered universal file converter that allows users to c
     
    . The converted file is saved in the desired format.
 
-   2) Image Conversion
+2) Image Conversion
       
    . Supported formats: PNG, JPG, BMP, TIFF, GIF, etc.
    
@@ -61,15 +61,15 @@ This project is a Python-powered universal file converter that allows users to c
    
    . The converted image is saved with the chosen format.
    
-   3) Audio Conversion
+3) Audio Conversion
       
    . Supported formats: MP3, WAV, AAC, OGG, etc.
    
    . The MoviePy and ffmpy libraries handle the conversion of audio files.
    
    . Example: An MP3 file can be converted to WAV or AAC.
-   
-   3) Video Conversion
+
+4) Video Conversion
       
    . Supported formats: MP4, AVI, MKV, MOV, etc.
    
